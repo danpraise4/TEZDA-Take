@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001224798336",
+    "project_id": "checkout-app-b07f4",
+    "storage_bucket": "checkout-app-b07f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001224798336:android:93f2faf58308a5ccf8e665",
+        "android_client_info": {
+          "package_name": "com.checkout.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlBM5d8InLGWBjIiXdA5ugOZ36NTip7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001224798336:android:f1db7e27732ee43af8e665",
+        "android_client_info": {
+          "package_name": "com.checkout.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlBM5d8InLGWBjIiXdA5ugOZ36NTip7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
